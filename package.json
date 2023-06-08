@@ -6,6 +6,7 @@
     "name": "Microsoft Corporation"
   },
   "license": "MIT",
+  "randomasscommit": "YESSIR",
   "main": "./out/main",
   "private": true,
   "scripts": {
